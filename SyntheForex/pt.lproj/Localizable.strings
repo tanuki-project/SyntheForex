@@ -1,0 +1,10 @@
+"LANG" = "Portuguese";
+"CANCEL" = "Cancelar";
+"OK" = "Ok";
+"INFO" = "Info";
+"ERROR" = "Erro";
+"CONNECTION_FAILED" = "Falha ao conectar servidor:\n%@";
+"DOWNLOAD_FAILED" = "Falha ao baixar taxa de câmbio: %@";
+"CURRENCY_NOTSELECTED" = "Código da moeda não está selecionada corretamente.";
+"ITEM_NOTSELECTED" = "Par de moeda não é selecionado.";
+"ITEM_NOTSUPPORT" = "Código especificado não é suportado.";

@@ -1,0 +1,10 @@
+"LANG" = "Italian";
+"CANCEL" = "Annullare";
+"OK" = "Ok";
+"INFO" = "Info";
+"ERROR" = "Errore";
+"CONNECTION_FAILED" = "Impossibile connettersi server:\n%@";
+"DOWNLOAD_FAILED" = "Impossibile scaricare tasso di cambio: %@";
+"CURRENCY_NOTSELECTED" = "Codice valuta non è selezionato correttamente.";
+"ITEM_NOTSELECTED" = "Coppia di moneta non sia selezionata.";
+"ITEM_NOTSUPPORT" = "Codice specificato non è supportato.";

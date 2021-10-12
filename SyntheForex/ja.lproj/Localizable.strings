@@ -1,0 +1,10 @@
+"LANG" = "Japanese";
+"CANCEL" = "取消し";
+"OK" = "確認";
+"INFO" = "情報";
+"ERROR" = "エラー";
+"CONNECTION_FAILED" = "サーバに接続できませんでした:\n%@";
+"DOWNLOAD_FAILED" = "為替レートのダウンロードに失敗しました: %@";
+"CURRENCY_NOTSELECTED" = "通貨コードが正しく選択されていません.";
+"ITEM_NOTSELECTED" = "通貨ペアが選択されていません.";
+"ITEM_NOTSUPPORT" = "サポートされていないコードです.";

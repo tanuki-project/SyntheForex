@@ -1,0 +1,10 @@
+"LANG" = "English";
+"CANCEL" = "Cancel";
+"OK" = "Ok";
+"INFO" = "Info";
+"ERROR" = "Error";
+"CONNECTION_FAILED" = "Failed to connect server:\n%@";
+"DOWNLOAD_FAILED" = "Failed to download exchange rate: %@";
+"CURRENCY_NOTSELECTED" = "Currancy code isn't selected crorrectly.";
+"ITEM_NOTSELECTED" = "Pair of currency isn't selected.";
+"ITEM_NOTSUPPORT" = "Specified code is not supported.";

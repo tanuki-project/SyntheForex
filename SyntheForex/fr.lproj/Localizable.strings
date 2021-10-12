@@ -1,0 +1,10 @@
+"LANG" = "French";
+"CANCEL" = "Annuler";
+"OK" = "Ok";
+"INFO" = "Info";
+"ERROR" = "Erreur";
+"CONNECTION_FAILED" = "Impossible de connecter le serveur:\n%@";
+"DOWNLOAD_FAILED" = "Impossible de télécharger des taux de change: %@";
+"CURRENCY_NOTSELECTED" = "Le code de devise n'est pas sélectionné correctement.";
+"ITEM_NOTSELECTED" = "Paire de devises n'est pas sélectionné.";
+"ITEM_NOTSUPPORT" = "Code spécifié n'est pas supporté.";

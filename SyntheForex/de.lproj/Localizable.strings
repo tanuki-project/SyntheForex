@@ -1,0 +1,10 @@
+"LANG" = "German";
+"CANCEL" = "Kündigen";
+"OK" = "Ok";
+"INFO" = "Info";
+"ERROR" = "Fehler";
+"CONNECTION_FAILED" = "Failed to verbinden server:\n%@";
+"DOWNLOAD_FAILED" = "Failed to Wechselkurs Download: %@";
+"CURRENCY_NOTSELECTED" = "Währungscode ist nicht richtig ausgewählt.";
+"ITEM_NOTSELECTED" = "Paar währung ist nicht ausgewählt.";
+"ITEM_NOTSUPPORT" = "Vorgesehene Code wird nicht unterstützt.";
