@@ -8,7 +8,47 @@ You can select voice and speaking rate by your preference. SyntheForex speaks En
 
 [Currencies]
 
-Now following 40 currency codes are available. You can choice up to 12 currencies pairs from 1560 combination. AED UAE Dirham ARS Argentine Peso AUD Australian Dollar BHD Bahraini Dinar BRL Brazilian Real CAD Canadian Dollar CHF Swiss Franc CLP Chilean Peso CNY Chinese Yuan COP Colombian Peso CZK Czech Koruna DKK Danish Krone EGP Egyptian Pound EUR Euro GBP British Pound HKD Hong Kong Dollar HUF Hungarian Forint IDR Indonesian Rupiah ILS Israeli Shekel INR Indian Rupee JPY Japanese Yen KRW South Korean Won MXN Mexican Peso MYN Malaysian Ringgit NOK Norwegian Krone NZD New Zealand Dollar PEN Peruvian Nuevo Sol PHP Philippine Peso PLN Polish Zloty QAR Qatar Rial RUB Russian Rouble SAR Saudi Arabian Riyal SEK Swedish Krona SGD Singapore Dollar THB Thai Baht TRY Turkish Lira TWD Taiwan Dollar USD United States Dollar VND Vietnam Dong ZAR South African Rand
+Now following 40 currency codes are available. You can choice up to 12 currencies pairs from 1560 combination. 
+- AED UAE Dirham
+- ARS Argentine Peso
+- AUD Australian Dollar
+- BHD Bahraini Dinar 
+- BRL Brazilian Real 
+- CAD Canadian Dollar
+- CHF Swiss Franc
+- CLP Chilean Peso
+- CNY Chinese Yuan
+- COP Colombian Peso
+- CZK Czech Koruna
+- DKK Danish Krone
+- EGP Egyptian Pound
+- EUR Euro 
+- GBP British Pound
+- HKD Hong Kong Dollar
+- HUF Hungarian Forint
+- IDR Indonesian Rupiah
+- ILS Israeli Shekel
+- INR Indian Rupee
+- JPY Japanese Yen
+- KRW South Korean Won
+- MXN Mexican Peso
+- MYN Malaysian Ringgit
+- NOK Norwegian Krone
+- NZD New Zealand Dollar
+- PEN Peruvian Nuevo Sol
+- PHP Philippine Peso
+- PLN Polish Zloty
+- QAR Qatar Rial
+- RUB Russian Rouble
+- SAR Saudi Arabian Riyal
+- SEK Swedish Krona
+- SGD Singapore Dollar
+- THB Thai Baht
+- TRY Turkish Lira
+- TWD Taiwan Dollar
+- USD United States Dollar
+- VND Vietnam Dong
+- ZAR South African Rand
 
 [Alarm]
 
