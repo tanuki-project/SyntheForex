@@ -1,6 +1,6 @@
 # SynthForex
 
-SyntheForex is voice assistant for foreign currency exchange traders. It download exchange rates from public internet sites and speak them to you. Exchange rates are not only displayed to window, but also noticed periodically by voice with speech synthesizer. Moreover, when exchange rate changed significantly, it noticed to you with alarm. Since you don't have to keep watching display to check exchange rates, burden of the your eyes is reduced. Of Course you also can perform other more important works. For more information, please visit the demo movie.
+SyntheForex is voice assistant for foreign currency exchange traders. It download exchange rates from public internet sites and speak them to you. Exchange rates are not only displayed to window, but also noticed periodically by voice with speech synthesizer. Moreover, when exchange rate changed significantly, it noticed to you with alarm. Since you don't have to keep watching display to check exchange rates, burden of the your eyes is reduced. Of Course you also can perform other more important works. For more information, please visit the [demo movie](https://www.youtube.com/watch?v=IFG49M_LRZM).
 
 [Voice]
 
